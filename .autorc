@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sdwqe34",
+  "repo": "container-aemtv8",
+  "name": "sdwqe34",
+  "email": "6262rpg@gmail.com",
+}
